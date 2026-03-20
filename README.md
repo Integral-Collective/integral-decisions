@@ -53,8 +53,8 @@ guide.
 
 ## References
 
-- [Integral Development Guide](https://github.com/integralcollective/integral-devguide)
-- [Integral White Paper](https://github.com/integralcollective/integral-whitepaper)
+- [Integral Development Guide](https://github.com/integral-collective/integral-devguide)
+- [Integral White Paper](https://github.com/integral-collective/integral-whitepaper)
 
 ---
 
